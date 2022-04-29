@@ -54,9 +54,6 @@ namespace Zadanie_5
                 Console.WriteLine("Czy chcesz zakończyć działanie programu? (tak/nie)");
                 koniec = Console.ReadLine();
                 Console.WriteLine();
-
-
-
             }
             while (koniec == "nie");
         }
